@@ -1,6 +1,5 @@
 # Resume_Screening
-Resume Screening App
-Resume Screening App is a machine learning-powered tool designed to classify resumes into specific job categories. It utilizes TF-IDF Vectorization, SVM Classifier, and Streamlit for an interactive user interface.
+Resume Screening App is designed to classify resumes into specific job categories. It utilizes,NLP, Python, TF-IDF Vectorization, SVM Classifier(and many machine learning algorithms), and Streamlit for an interactive user interface.
 
 Features
 File Support: Upload resumes in PDF, DOCX, or TXT format.
